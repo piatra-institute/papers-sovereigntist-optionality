@@ -1,0 +1,9 @@
+[project]
+name = "sovereigntist-optionality-sim"
+version = "0.1.0"
+description = "Real-options model of capital fractions under a credible sovereigntist route to power"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+]
