@@ -31,7 +31,7 @@ The frozen bibliography. 29 entries, each cited in the paper. Form matches `## R
 - Nölke, A., & Vliegenthart, A. (2009). Enlarging the varieties of capitalism. *World Politics*, 61(4), 670-702. — dependent market economies.
 - Pástor, Ľ., & Veronesi, P. (2013). Political uncertainty and risk premia. *Journal of Financial Economics*, 110(3), 520-545. — political risk premium.
 - Pearson, M. M., Rithmire, M., & Tsai, K. S. (2021). Party-state capitalism in China. *Current History*, 120(827), 207-213. — the China coordinate: party-state discipline of private capital (high $\delta$). Verified via UC Press / HBS working paper 21-065.
-- Schedelik, M., Nölke, A., Mertens, D., & May, C. (2021). Comparative capitalism, growth models and emerging markets. *New Political Economy*, 26(4), 642-659. — peripheral growth models.
+- Schedelik, M., Nölke, A., Mertens, D., & May, C. (2021). Comparative capitalism, growth models and emerging markets. *New Political Economy*, 26(4), 514-526. — peripheral growth models.
 - Scheppele, K. L. (2018). Autocratic legalism. *University of Chicago Law Review*, 85(2), 545-583. — legal mechanics of discretion.
 - Shleifer, A., & Vishny, R. W. (1994). Politicians and firms. *Quarterly Journal of Economics*, 109(4), 995-1025. — state-firm rents.
 - Trigeorgis, L. (1996). *Real Options*. MIT Press. — managerial flexibility as options.

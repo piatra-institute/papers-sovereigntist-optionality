@@ -178,7 +178,7 @@ Pástor, Ľ., & Veronesi, P. (2013). Political uncertainty and risk premia. *Jou
 
 Pearson, M. M., Rithmire, M., & Tsai, K. S. (2021). Party-state capitalism in China. *Current History*, 120(827), 207-213.
 
-Schedelik, M., Nölke, A., Mertens, D., & May, C. (2021). Comparative capitalism, growth models and emerging markets: The development of the field. *New Political Economy*, 26(4), 642-659.
+Schedelik, M., Nölke, A., Mertens, D., & May, C. (2021). Comparative capitalism, growth models and emerging markets: The development of the field. *New Political Economy*, 26(4), 514-526.
 
 Scheppele, K. L. (2018). Autocratic legalism. *University of Chicago Law Review*, 85(2), 545-583.
 
