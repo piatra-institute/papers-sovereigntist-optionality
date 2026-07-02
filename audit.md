@@ -61,3 +61,13 @@ Notes / deferred:
 
 - Status set to `built`, not `published`: deploying (sync + page.tsx entry + status flip + push) is the maintainer's step.
 - The seed's interactive dashboard is not built; the runnable simulation is the companion artifact and already exposes the interest parameters (p, delta, rho, mobility distribution) as adjustable inputs in code.
+
+---
+
+## 2026-07-02 — reform pass (de-template)
+
+Corpus reform, structural. The paper was already honest about the audit's charges: §1 states it "takes the threshold form... without its dynamics: it prices each move by expected value and finds the crossover," so the options framing is a contingent-claim metaphor rather than stochastic pricing, and §6 notes capture is insensitive "by construction." Targets were the shared templated closer and the twin abstract closer.
+
+- paper/PAPER.md + metadata.yaml abstract: replaced the boilerplate closer "The construct prices the wager the word optionality names; it does not certify that any firm has placed it" (a variant shared with two other June papers) with a distinct ending stating the paper's own result, that the aggregate sign of capital's move is composition, not conviction.
+- paper/PAPER.md §8: retitled "What the Model Prices and What It Leaves Open" -> "Composition, Not Conviction" (sovereigntist was on the templated-closer census list), and softened the "Three things the construction does not do" ledger opener; the three honest disclaimers and the substantive final paragraph are unchanged.
+- Verify: voice 0 errors; refs 32/32, 0 missing/0 unused; claims 41/0 unmatched; check => PASS; synced.
